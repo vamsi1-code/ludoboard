@@ -1,0 +1,203 @@
+.main{
+    /* height: 90vh; */
+    width: 50vw;
+    border: 2px solid black;
+    margin-left: 20vwr66;
+}
+.child1a{
+    height: 37vh;
+    width: 20vw;
+    border: 2px solid black;
+    background-color: blue;
+}
+.child1c{
+    margin-top: -38vh;
+    margin-left: 29.9vw;
+    height: 37.1vh;
+    width: 20vw;
+    border: 2px solid black;
+    background-color: red;
+}
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    height: 5.6vh;
+    width: 9.7vw;
+    margin-left: 18.2vw;
+    margin-top: -38vh;
+
+}
+.child1b{
+    margin-left: 2vw;
+}
+.child11{
+    height: 28vh;
+    width:14vw;
+    border: 2px solid black;
+    margin-top: 4vh;
+    margin-left: 2.7vw;
+    background-color: white;
+   
+
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.box1{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color: blue;
+}
+.box2{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color: blue;
+}
+.box3{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color: blue;
+}
+.box4{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color: blue;
+}
+.box5{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color: red;
+}
+.box6{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color: red;
+}
+.box7{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color:red;
+}
+.box8{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color:red;
+}
+
+
+
+.child2a{
+    margin-top: 17.4vw;
+    margin-left: -18.3vw;
+}
+.home{
+    height: 18.2vh;
+    width: 10vw;
+    border: 2px solid black;
+    margin-left: 20vw;
+    margin-top: -19vh;
+}
+.child3a{
+    height: 37vh;
+    width: 20vw;
+    border: 2px solid black;
+    background-color: yellow;
+}
+.child3c{
+    margin-top: -38vh;
+    margin-left: 29.9vw;
+    height: 37.1vh;
+    width: 20vw;
+    border: 2px solid black;
+    background-color:green;
+}
+.box9{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color: yellow;
+}
+.box10{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color: yellow;
+}
+.box11{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color: yellow;
+}
+.box12{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color: yellow;
+}
+.box13{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color: green;
+}
+.box14{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color: green;
+}
+.box15{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 0.5vw;
+    margin-top: 4vh;
+    background-color:green;
+}
+.box16{
+    height: 6vh;
+    width: 3vw;
+    border: 2px solid black;
+    margin-left: 1vw;
+    margin-top: 4vh;
+    background-color:green;
+}
